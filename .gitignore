@@ -1,0 +1,7 @@
+/vendor/
+/composer.lock
+/storage/mail.log
+/.phpunit.cache/
+/.idea/
+/.vscode/
+*.log
